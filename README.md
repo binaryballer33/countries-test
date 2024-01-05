@@ -1,1 +1,1 @@
-### Trying to get hit hub pages to work with React App, it didn't work on my vite project, created this with npx create-react-app to see if vite was the issue
+### GitHub pages working with React App
